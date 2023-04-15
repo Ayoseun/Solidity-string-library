@@ -1,7 +1,7 @@
 ### String library
 An updated string Library for EVM compatible chains.
 
-
+compatible with pragma solidity >=0.7.0 <0.9.0; contracts
 
 
 Contribution
