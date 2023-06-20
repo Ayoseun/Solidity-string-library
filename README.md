@@ -4,8 +4,8 @@ A Solidity library that provides utility functions for converting data types to 
 ### Compatibility
 This library is compatible with Solidity version >=0.8.0 <0.9.0.
 
-**Installation**
-To use this library, follow these steps:
+### Installation
+To use this library,follow these steps:
 
 Import the library into your Solidity contract:
 
